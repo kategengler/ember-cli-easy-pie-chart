@@ -1,7 +1,7 @@
 {
   "name": "ember-cli-easy-pie-chart",
-  "version": "0.0.0",
-  "description": "The default blueprint for ember-cli addons.",
+  "version": "0.0.1",
+  "description": "ember-cli addon for inserts an easy pie chart.",
   "directories": {
     "doc": "doc",
     "test": "tests"
@@ -15,7 +15,7 @@
   "engines": {
     "node": ">= 0.10.0"
   },
-  "author": "",
+  "author": "Cristóbal Maldonado W. <cristobal.maldonado@gmail.com>",
   "license": "MIT",
   "devDependencies": {
     "broccoli-asset-rev": "^2.0.0",
@@ -35,7 +35,9 @@
     "glob": "^4.0.5"
   },
   "keywords": [
-    "ember-addon"
+    "ember-addon",
+    "easy pie chart",
+    "charts"
   ],
   "ember-addon": {
     "configPath": "tests/dummy/config"
