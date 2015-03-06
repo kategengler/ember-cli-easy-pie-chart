@@ -1,5 +1,5 @@
 module.exports = {
-  name: 'ember-cli-easy-pie-chart',
+  name: 'easy-pie-chart',
 
   included: function(app) {
     this._super.included(app);

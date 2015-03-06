@@ -5,7 +5,7 @@ export default Ember.Component.extend({
   attributeBindings : ['dataPercent:data-percent'],
 
   easyPieChart: null,
-  dataPercent : 0
+  dataPercent : 0,
 
   initEasyPieChart: function() {
     var easyPieChart = this.$().easyPieChart({
